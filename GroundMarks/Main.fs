@@ -41,7 +41,7 @@ module Skin =
 module Site =
 
     let HomePage =
-        Skin.WithTemplate "HomePage" (fun _ ->
+        Skin.WithTemplate "Bradford Cricket League Ground Marks" (fun _ ->
             [
                 Div [new Controls.EntryPoint()]
             ])
